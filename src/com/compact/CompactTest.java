@@ -11,7 +11,7 @@ public class CompactTest {
 		String path1 = "D:\\海图项目\\sql\\CompactTest1.class";
 		String path2 = "D:\\海图项目\\sql\\CompactTest2.class";
 		
-		
+		  
 		String md5P1 = getFileMD5(new File(path1));
 		String md5P2 = getFileMD5(new File(path2));
 		System.out.println(md5P1);

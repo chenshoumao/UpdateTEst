@@ -12,7 +12,9 @@ public class FileWatch {
 
 	String file1 = "D:\\海图项目\\zip\\";
 	String file2 = "D:\\海图项目\\zip2\\";
-
+     
+	
+	
 	public static void main(String[] args) {
 		try {
 
